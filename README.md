@@ -185,12 +185,3 @@ Objetivo actual:
   * Subida de productos
   * Sistema básico de validación
   * Recomendación por scoring simple
-
----
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas.
-
-Próximamente se publicará guía de contribución y estándares de código.
-
